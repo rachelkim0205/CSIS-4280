@@ -8,7 +8,7 @@ This project performs sentiment analysis on beer reviews collected from Reddit u
 ## Project Files
 
 - 'beer_reviews_praw.csv', 'beer_reviews_json.csv': The dataset containing beer reviews, including the title, text, score, and the corresponding keyword (IPA, Lager).
-- 'beer_reviews_with_sentiment.csv': The result dataset after sentiment analysis, which includes VADER and TextBlob sentiment labels and scores.
+- 'beer_reviews_with_sentiment.csv': The result dataset after sentiment analysis, which includes VADER and TextBlob sentiment labels and scores.(columns: Subreddit, Keyword, Title, Text, Score, VADER_Score, VADER_Sentiment_Label, TextBlob_Score, TextBlob_Sentiment_Label,	Importance_Score)
 - 'Assignment2 300394050.ipynb': Jupyter notebook containing the entire analysis process
 
 
