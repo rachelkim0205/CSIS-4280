@@ -1,4 +1,5 @@
 # CSIS-4280 Assignment 2
+300394050 Rachel Kim
 
 ## Beer Review Sentiment Analysis
 
